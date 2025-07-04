@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['dumbbell', 'hammer']
+
+roboflow:
+  workspace: my-workspace-gx7js
+  project: dumble-detectoin
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/my-workspace-gx7js/dumble-detectoin/dataset/2
