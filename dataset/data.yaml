@@ -3,7 +3,7 @@ val: ../valid/images
 test: ../test/images
 
 nc: 2
-names: ['dumbbell', 'hammer']
+names: ["dumbbell", "hammer"]
 
 roboflow:
   workspace: my-workspace-gx7js
